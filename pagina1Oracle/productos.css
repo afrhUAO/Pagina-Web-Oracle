@@ -1,0 +1,51 @@
+*{
+ padding: 0px;
+ margin: 0px;
+
+}
+
+body{
+margin: 2px;
+
+}
+
+
+
+
+
+header {
+    display: flex;
+    background-color: #BBBBBB;
+
+}
+
+.imagenp {
+
+margin-left: 250px;
+margin-right: 0px;
+
+
+}
+
+
+
+nav li {
+    display: inline;
+}
+
+nav {
+    margin-left: 500px;
+    margin-top: 100px;
+    margin-bottom: auto;
+
+}
+
+
+nav a {
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #000000;
+    margin-left: 15px;
+    text-decoration: none;
+
+}
